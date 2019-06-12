@@ -1,0 +1,1000 @@
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   0	Waga sciezki :0	Sciezka :   0 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   1	Waga sciezki :3	Sciezka :   0 643 1 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   2	Waga sciezki :3	Sciezka :   0 922 139 2 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   3	Waga sciezki :3	Sciezka :   0 3 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   4	Waga sciezki :3	Sciezka :   0 237 92 4 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   5	Waga sciezki :3	Sciezka :   0 728 267 5 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   6	Waga sciezki :2	Sciezka :   0 312 6 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   7	Waga sciezki :2	Sciezka :   0 569 7 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   8	Waga sciezki :3	Sciezka :   0 693 31 8 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   9	Waga sciezki :3	Sciezka :   0 745 9 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   10	Waga sciezki :2	Sciezka :   0 904 10 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   11	Waga sciezki :1	Sciezka :   0 11 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   12	Waga sciezki :2	Sciezka :   0 693 12 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   13	Waga sciezki :3	Sciezka :   0 13 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   14	Waga sciezki :2	Sciezka :   0 50 14 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   15	Waga sciezki :2	Sciezka :   0 569 15 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   16	Waga sciezki :2	Sciezka :   0 569 16 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   17	Waga sciezki :2	Sciezka :   0 922 17 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   18	Waga sciezki :2	Sciezka :   0 18 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   19	Waga sciezki :3	Sciezka :   0 237 19 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   20	Waga sciezki :2	Sciezka :   0 569 20 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   21	Waga sciezki :3	Sciezka :   0 693 96 21 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   22	Waga sciezki :3	Sciezka :   0 569 15 22 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   23	Waga sciezki :2	Sciezka :   0 595 23 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   24	Waga sciezki :3	Sciezka :   0 776 24 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   25	Waga sciezki :2	Sciezka :   0 990 25 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   26	Waga sciezki :3	Sciezka :   0 922 26 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   27	Waga sciezki :3	Sciezka :   0 18 27 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   28	Waga sciezki :3	Sciezka :   0 595 132 28 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   29	Waga sciezki :2	Sciezka :   0 812 29 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   30	Waga sciezki :3	Sciezka :   0 990 25 30 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   31	Waga sciezki :2	Sciezka :   0 693 31 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   32	Waga sciezki :3	Sciezka :   0 895 32 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   33	Waga sciezki :3	Sciezka :   0 569 15 33 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   34	Waga sciezki :1	Sciezka :   0 34 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   35	Waga sciezki :2	Sciezka :   0 812 35 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   36	Waga sciezki :3	Sciezka :   0 18 36 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   37	Waga sciezki :3	Sciezka :   0 237 126 37 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   38	Waga sciezki :3	Sciezka :   0 693 12 38 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   39	Waga sciezki :3	Sciezka :   0 237 91 39 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   40	Waga sciezki :3	Sciezka :   0 693 40 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   41	Waga sciezki :3	Sciezka :   0 50 225 41 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   42	Waga sciezki :2	Sciezka :   0 852 42 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   43	Waga sciezki :3	Sciezka :   0 922 43 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   44	Waga sciezki :2	Sciezka :   0 569 44 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   45	Waga sciezki :2	Sciezka :   0 673 45 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   46	Waga sciezki :3	Sciezka :   0 905 46 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   47	Waga sciezki :3	Sciezka :   0 569 59 47 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   48	Waga sciezki :2	Sciezka :   0 569 48 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   49	Waga sciezki :3	Sciezka :   0 905 49 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   50	Waga sciezki :1	Sciezka :   0 50 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   51	Waga sciezki :3	Sciezka :   0 595 23 51 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   52	Waga sciezki :2	Sciezka :   0 595 52 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   53	Waga sciezki :3	Sciezka :   0 569 16 53 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   54	Waga sciezki :2	Sciezka :   0 895 54 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   55	Waga sciezki :3	Sciezka :   0 852 55 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   56	Waga sciezki :3	Sciezka :   0 904 121 56 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   57	Waga sciezki :2	Sciezka :   0 745 57 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   58	Waga sciezki :3	Sciezka :   0 904 10 58 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   59	Waga sciezki :2	Sciezka :   0 569 59 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   60	Waga sciezki :2	Sciezka :   0 776 60 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   61	Waga sciezki :2	Sciezka :   0 50 61 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   62	Waga sciezki :3	Sciezka :   0 62 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   63	Waga sciezki :3	Sciezka :   0 312 63 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   64	Waga sciezki :3	Sciezka :   0 922 17 64 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   65	Waga sciezki :2	Sciezka :   0 11 65 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   66	Waga sciezki :3	Sciezka :   0 641 66 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   67	Waga sciezki :2	Sciezka :   0 641 67 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   68	Waga sciezki :3	Sciezka :   0 18 68 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   69	Waga sciezki :3	Sciezka :   0 312 69 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   70	Waga sciezki :3	Sciezka :   0 728 70 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   71	Waga sciezki :3	Sciezka :   0 905 117 71 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   72	Waga sciezki :3	Sciezka :   0 34 95 72 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   73	Waga sciezki :3	Sciezka :   0 11 73 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   74	Waga sciezki :3	Sciezka :   0 693 31 74 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   75	Waga sciezki :3	Sciezka :   0 728 75 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   76	Waga sciezki :2	Sciezka :   0 852 76 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   77	Waga sciezki :3	Sciezka :   0 895 128 77 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   78	Waga sciezki :3	Sciezka :   0 673 79 78 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   79	Waga sciezki :2	Sciezka :   0 673 79 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   80	Waga sciezki :3	Sciezka :   0 673 79 80 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   81	Waga sciezki :2	Sciezka :   0 237 81 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   82	Waga sciezki :2	Sciezka :   0 34 82 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   83	Waga sciezki :3	Sciezka :   0 50 83 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   84	Waga sciezki :3	Sciezka :   0 641 84 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   85	Waga sciezki :3	Sciezka :   0 50 158 85 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   86	Waga sciezki :3	Sciezka :   0 990 86 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   87	Waga sciezki :3	Sciezka :   0 34 87 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   88	Waga sciezki :3	Sciezka :   0 595 23 88 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   89	Waga sciezki :3	Sciezka :   0 312 345 89 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   90	Waga sciezki :3	Sciezka :   0 50 90 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   91	Waga sciezki :2	Sciezka :   0 237 91 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   92	Waga sciezki :2	Sciezka :   0 237 92 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   93	Waga sciezki :2	Sciezka :   0 11 93 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   94	Waga sciezki :2	Sciezka :   0 11 94 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   95	Waga sciezki :2	Sciezka :   0 34 95 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   96	Waga sciezki :2	Sciezka :   0 693 96 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   97	Waga sciezki :3	Sciezka :   0 895 97 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   98	Waga sciezki :3	Sciezka :   0 50 98 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   99	Waga sciezki :2	Sciezka :   0 641 99 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   100	Waga sciezki :3	Sciezka :   0 237 100 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   101	Waga sciezki :3	Sciezka :   0 569 7 101 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   102	Waga sciezki :2	Sciezka :   0 922 102 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   103	Waga sciezki :3	Sciezka :   0 776 103 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   104	Waga sciezki :2	Sciezka :   0 312 104 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   105	Waga sciezki :3	Sciezka :   0 904 112 105 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   106	Waga sciezki :3	Sciezka :   0 18 106 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   107	Waga sciezki :2	Sciezka :   0 728 107 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   108	Waga sciezki :3	Sciezka :   0 569 20 108 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   109	Waga sciezki :3	Sciezka :   0 745 109 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   110	Waga sciezki :2	Sciezka :   0 776 110 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   111	Waga sciezki :3	Sciezka :   0 237 161 111 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   112	Waga sciezki :2	Sciezka :   0 904 112 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   113	Waga sciezki :3	Sciezka :   0 569 399 113 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   114	Waga sciezki :3	Sciezka :   0 895 178 114 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   115	Waga sciezki :3	Sciezka :   0 50 115 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   116	Waga sciezki :3	Sciezka :   0 237 116 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   117	Waga sciezki :2	Sciezka :   0 905 117 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   118	Waga sciezki :3	Sciezka :   0 50 118 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   119	Waga sciezki :3	Sciezka :   0 812 264 119 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   120	Waga sciezki :3	Sciezka :   0 673 120 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   121	Waga sciezki :2	Sciezka :   0 904 121 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   122	Waga sciezki :2	Sciezka :   0 990 122 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   123	Waga sciezki :3	Sciezka :   0 641 123 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   124	Waga sciezki :3	Sciezka :   0 904 124 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   125	Waga sciezki :2	Sciezka :   0 569 125 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   126	Waga sciezki :2	Sciezka :   0 237 126 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   127	Waga sciezki :2	Sciezka :   0 812 127 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   128	Waga sciezki :2	Sciezka :   0 895 128 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   129	Waga sciezki :2	Sciezka :   0 595 129 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   130	Waga sciezki :3	Sciezka :   0 18 130 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   131	Waga sciezki :2	Sciezka :   0 745 131 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   132	Waga sciezki :2	Sciezka :   0 595 132 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   133	Waga sciezki :3	Sciezka :   0 745 133 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   134	Waga sciezki :3	Sciezka :   0 904 112 134 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   135	Waga sciezki :3	Sciezka :   0 135 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   136	Waga sciezki :2	Sciezka :   0 745 136 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   137	Waga sciezki :2	Sciezka :   0 137 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   138	Waga sciezki :3	Sciezka :   0 569 20 138 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   139	Waga sciezki :2	Sciezka :   0 922 139 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   140	Waga sciezki :2	Sciezka :   0 643 140 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   141	Waga sciezki :2	Sciezka :   0 693 141 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   142	Waga sciezki :3	Sciezka :   0 728 142 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   143	Waga sciezki :3	Sciezka :   0 569 143 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   144	Waga sciezki :3	Sciezka :   0 237 92 144 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   145	Waga sciezki :3	Sciezka :   0 905 145 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   146	Waga sciezki :3	Sciezka :   0 904 10 146 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   147	Waga sciezki :3	Sciezka :   0 569 7 147 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   148	Waga sciezki :2	Sciezka :   0 569 148 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   149	Waga sciezki :3	Sciezka :   0 922 149 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   150	Waga sciezki :3	Sciezka :   0 50 150 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   151	Waga sciezki :2	Sciezka :   0 237 151 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   152	Waga sciezki :3	Sciezka :   0 569 190 152 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   153	Waga sciezki :3	Sciezka :   0 904 112 153 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   154	Waga sciezki :2	Sciezka :   0 904 154 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   155	Waga sciezki :2	Sciezka :   0 643 155 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   156	Waga sciezki :3	Sciezka :   0 34 95 156 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   157	Waga sciezki :3	Sciezka :   0 922 102 157 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   158	Waga sciezki :2	Sciezka :   0 50 158 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   159	Waga sciezki :3	Sciezka :   0 18 159 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   160	Waga sciezki :3	Sciezka :   0 812 35 160 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   161	Waga sciezki :2	Sciezka :   0 237 161 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   162	Waga sciezki :2	Sciezka :   0 569 162 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   163	Waga sciezki :3	Sciezka :   0 895 128 163 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   164	Waga sciezki :2	Sciezka :   0 11 164 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   165	Waga sciezki :2	Sciezka :   0 812 165 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   166	Waga sciezki :2	Sciezka :   0 895 166 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   167	Waga sciezki :3	Sciezka :   0 922 521 167 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   168	Waga sciezki :3	Sciezka :   0 569 194 168 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   169	Waga sciezki :3	Sciezka :   0 673 169 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   170	Waga sciezki :2	Sciezka :   0 776 170 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   171	Waga sciezki :3	Sciezka :   0 776 171 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   172	Waga sciezki :2	Sciezka :   0 312 172 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   173	Waga sciezki :2	Sciezka :   0 11 173 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   174	Waga sciezki :3	Sciezka :   0 812 29 174 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   175	Waga sciezki :3	Sciezka :   0 852 175 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   176	Waga sciezki :2	Sciezka :   0 569 176 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   177	Waga sciezki :3	Sciezka :   0 852 42 177 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   178	Waga sciezki :2	Sciezka :   0 895 178 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   179	Waga sciezki :3	Sciezka :   0 595 52 179 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   180	Waga sciezki :3	Sciezka :   0 237 81 180 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   181	Waga sciezki :2	Sciezka :   0 990 181 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   182	Waga sciezki :2	Sciezka :   0 182 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   183	Waga sciezki :3	Sciezka :   0 50 225 183 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   184	Waga sciezki :3	Sciezka :   0 641 67 184 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   185	Waga sciezki :3	Sciezka :   0 693 242 185 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   186	Waga sciezki :3	Sciezka :   0 895 214 186 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   187	Waga sciezki :3	Sciezka :   0 595 187 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   188	Waga sciezki :3	Sciezka :   0 922 139 188 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   189	Waga sciezki :3	Sciezka :   0 50 189 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   190	Waga sciezki :2	Sciezka :   0 569 190 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   191	Waga sciezki :3	Sciezka :   0 569 15 191 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   192	Waga sciezki :2	Sciezka :   0 643 192 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   193	Waga sciezki :2	Sciezka :   0 34 193 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   194	Waga sciezki :2	Sciezka :   0 569 194 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   195	Waga sciezki :3	Sciezka :   0 569 195 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   196	Waga sciezki :2	Sciezka :   0 905 196 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   197	Waga sciezki :3	Sciezka :   0 237 197 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   198	Waga sciezki :2	Sciezka :   0 745 198 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   199	Waga sciezki :3	Sciezka :   0 199 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   200	Waga sciezki :2	Sciezka :   0 922 200 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   201	Waga sciezki :3	Sciezka :   0 641 67 201 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   202	Waga sciezki :2	Sciezka :   0 990 202 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   203	Waga sciezki :2	Sciezka :   0 237 203 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   204	Waga sciezki :3	Sciezka :   0 569 176 204 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   205	Waga sciezki :2	Sciezka :   0 11 205 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   206	Waga sciezki :2	Sciezka :   0 728 206 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   207	Waga sciezki :3	Sciezka :   0 569 48 207 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   208	Waga sciezki :3	Sciezka :   0 904 208 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   209	Waga sciezki :3	Sciezka :   0 50 61 209 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   210	Waga sciezki :3	Sciezka :   0 745 210 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   211	Waga sciezki :3	Sciezka :   0 569 20 211 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   212	Waga sciezki :2	Sciezka :   0 569 212 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   213	Waga sciezki :3	Sciezka :   0 895 213 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   214	Waga sciezki :2	Sciezka :   0 895 214 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   215	Waga sciezki :3	Sciezka :   0 34 255 215 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   216	Waga sciezki :3	Sciezka :   0 11 216 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   217	Waga sciezki :3	Sciezka :   0 217 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   218	Waga sciezki :2	Sciezka :   0 34 218 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   219	Waga sciezki :2	Sciezka :   0 641 219 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   220	Waga sciezki :3	Sciezka :   0 905 220 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   221	Waga sciezki :3	Sciezka :   0 18 221 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   222	Waga sciezki :3	Sciezka :   0 50 222 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   223	Waga sciezki :3	Sciezka :   0 693 12 223 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   224	Waga sciezki :3	Sciezka :   0 11 173 224 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   225	Waga sciezki :2	Sciezka :   0 50 225 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   226	Waga sciezki :2	Sciezka :   0 237 226 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   227	Waga sciezki :3	Sciezka :   0 904 227 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   228	Waga sciezki :2	Sciezka :   0 595 228 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   229	Waga sciezki :3	Sciezka :   0 595 271 229 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   230	Waga sciezki :3	Sciezka :   0 812 29 230 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   231	Waga sciezki :2	Sciezka :   0 776 231 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   232	Waga sciezki :3	Sciezka :   0 812 29 232 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   233	Waga sciezki :3	Sciezka :   0 569 125 233 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   234	Waga sciezki :2	Sciezka :   0 237 234 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   235	Waga sciezki :3	Sciezka :   0 922 17 235 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   236	Waga sciezki :2	Sciezka :   0 34 236 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   237	Waga sciezki :1	Sciezka :   0 237 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   238	Waga sciezki :2	Sciezka :   0 34 238 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   239	Waga sciezki :2	Sciezka :   0 673 239 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   240	Waga sciezki :2	Sciezka :   0 240 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   241	Waga sciezki :3	Sciezka :   0 312 6 241 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   242	Waga sciezki :2	Sciezka :   0 693 242 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   243	Waga sciezki :3	Sciezka :   0 904 10 243 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   244	Waga sciezki :3	Sciezka :   0 11 65 244 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   245	Waga sciezki :3	Sciezka :   0 569 245 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   246	Waga sciezki :3	Sciezka :   0 641 246 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   247	Waga sciezki :2	Sciezka :   0 312 247 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   248	Waga sciezki :3	Sciezka :   0 137 248 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   249	Waga sciezki :3	Sciezka :   0 11 164 249 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   250	Waga sciezki :3	Sciezka :   0 50 250 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   251	Waga sciezki :3	Sciezka :   0 693 12 251 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   252	Waga sciezki :3	Sciezka :   0 904 252 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   253	Waga sciezki :3	Sciezka :   0 237 302 253 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   254	Waga sciezki :3	Sciezka :   0 237 161 254 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   255	Waga sciezki :2	Sciezka :   0 34 255 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   256	Waga sciezki :3	Sciezka :   0 595 271 256 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   257	Waga sciezki :3	Sciezka :   0 641 257 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   258	Waga sciezki :3	Sciezka :   0 569 176 258 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   259	Waga sciezki :3	Sciezka :   0 237 203 259 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   260	Waga sciezki :3	Sciezka :   0 237 226 260 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   261	Waga sciezki :2	Sciezka :   0 852 261 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   262	Waga sciezki :2	Sciezka :   0 312 262 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   263	Waga sciezki :3	Sciezka :   0 312 6 263 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   264	Waga sciezki :2	Sciezka :   0 812 264 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   265	Waga sciezki :2	Sciezka :   0 693 265 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   266	Waga sciezki :2	Sciezka :   0 641 266 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   267	Waga sciezki :2	Sciezka :   0 728 267 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   268	Waga sciezki :2	Sciezka :   0 852 268 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   269	Waga sciezki :2	Sciezka :   0 269 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   270	Waga sciezki :3	Sciezka :   0 693 270 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   271	Waga sciezki :2	Sciezka :   0 595 271 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   272	Waga sciezki :3	Sciezka :   0 728 272 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   273	Waga sciezki :3	Sciezka :   0 273 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   274	Waga sciezki :3	Sciezka :   0 50 14 274 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   275	Waga sciezki :2	Sciezka :   0 895 275 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   276	Waga sciezki :3	Sciezka :   0 922 322 276 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   277	Waga sciezki :3	Sciezka :   0 11 173 277 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   278	Waga sciezki :2	Sciezka :   0 278 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   279	Waga sciezki :3	Sciezka :   0 569 16 279 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   280	Waga sciezki :2	Sciezka :   0 852 280 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   281	Waga sciezki :3	Sciezka :   0 990 281 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   282	Waga sciezki :3	Sciezka :   0 641 99 282 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   283	Waga sciezki :3	Sciezka :   0 905 283 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   284	Waga sciezki :3	Sciezka :   0 237 126 284 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   285	Waga sciezki :3	Sciezka :   0 50 61 285 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   286	Waga sciezki :2	Sciezka :   0 595 286 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   287	Waga sciezki :2	Sciezka :   0 852 287 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   288	Waga sciezki :3	Sciezka :   0 569 20 288 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   289	Waga sciezki :2	Sciezka :   0 34 289 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   290	Waga sciezki :2	Sciezka :   0 643 290 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   291	Waga sciezki :3	Sciezka :   0 569 15 291 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   292	Waga sciezki :3	Sciezka :   0 50 61 292 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   293	Waga sciezki :2	Sciezka :   0 11 293 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   294	Waga sciezki :3	Sciezka :   0 294 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   295	Waga sciezki :3	Sciezka :   0 50 295 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   296	Waga sciezki :2	Sciezka :   0 812 296 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   297	Waga sciezki :2	Sciezka :   0 643 297 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   298	Waga sciezki :3	Sciezka :   0 569 48 298 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   299	Waga sciezki :2	Sciezka :   0 990 299 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   300	Waga sciezki :2	Sciezka :   0 812 300 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   301	Waga sciezki :2	Sciezka :   0 922 301 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   302	Waga sciezki :2	Sciezka :   0 237 302 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   303	Waga sciezki :3	Sciezka :   0 990 202 303 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   304	Waga sciezki :2	Sciezka :   0 745 304 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   305	Waga sciezki :3	Sciezka :   0 237 81 305 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   306	Waga sciezki :3	Sciezka :   0 312 6 306 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   307	Waga sciezki :3	Sciezka :   0 307 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   308	Waga sciezki :3	Sciezka :   0 905 308 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   309	Waga sciezki :2	Sciezka :   0 990 309 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   310	Waga sciezki :3	Sciezka :   0 595 228 310 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   311	Waga sciezki :2	Sciezka :   0 311 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   312	Waga sciezki :1	Sciezka :   0 312 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   313	Waga sciezki :3	Sciezka :   0 50 313 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   314	Waga sciezki :3	Sciezka :   0 745 314 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   315	Waga sciezki :3	Sciezka :   0 312 6 315 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   316	Waga sciezki :3	Sciezka :   0 905 316 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   317	Waga sciezki :3	Sciezka :   0 595 23 317 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   318	Waga sciezki :3	Sciezka :   0 595 318 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   319	Waga sciezki :3	Sciezka :   0 237 375 319 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   320	Waga sciezki :2	Sciezka :   0 643 320 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   321	Waga sciezki :2	Sciezka :   0 312 321 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   322	Waga sciezki :2	Sciezka :   0 922 322 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   323	Waga sciezki :3	Sciezka :   0 34 323 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   324	Waga sciezki :3	Sciezka :   0 643 324 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   325	Waga sciezki :3	Sciezka :   0 34 325 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   326	Waga sciezki :3	Sciezka :   0 693 12 326 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   327	Waga sciezki :2	Sciezka :   0 693 327 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   328	Waga sciezki :3	Sciezka :   0 569 15 328 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   329	Waga sciezki :3	Sciezka :   0 745 131 329 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   330	Waga sciezki :3	Sciezka :   0 895 54 330 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   331	Waga sciezki :2	Sciezka :   0 331 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   332	Waga sciezki :3	Sciezka :   0 673 79 332 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   333	Waga sciezki :3	Sciezka :   0 922 333 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   334	Waga sciezki :3	Sciezka :   0 922 102 334 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   335	Waga sciezki :3	Sciezka :   0 137 335 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   336	Waga sciezki :2	Sciezka :   0 595 336 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   337	Waga sciezki :3	Sciezka :   0 745 337 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   338	Waga sciezki :3	Sciezka :   0 673 79 338 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   339	Waga sciezki :3	Sciezka :   0 11 339 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   340	Waga sciezki :3	Sciezka :   0 643 340 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   341	Waga sciezki :3	Sciezka :   0 693 12 341 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   342	Waga sciezki :2	Sciezka :   0 905 342 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   343	Waga sciezki :3	Sciezka :   0 569 59 343 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   344	Waga sciezki :3	Sciezka :   0 745 131 344 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   345	Waga sciezki :2	Sciezka :   0 312 345 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   346	Waga sciezki :2	Sciezka :   0 776 346 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   347	Waga sciezki :3	Sciezka :   0 569 48 347 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   348	Waga sciezki :3	Sciezka :   0 595 348 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   349	Waga sciezki :3	Sciezka :   0 673 349 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   350	Waga sciezki :3	Sciezka :   0 852 350 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   351	Waga sciezki :3	Sciezka :   0 693 351 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   352	Waga sciezki :2	Sciezka :   0 922 352 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   353	Waga sciezki :3	Sciezka :   0 182 353 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   354	Waga sciezki :3	Sciezka :   0 11 354 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   355	Waga sciezki :2	Sciezka :   0 34 355 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   356	Waga sciezki :3	Sciezka :   0 745 356 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   357	Waga sciezki :3	Sciezka :   0 812 35 357 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   358	Waga sciezki :2	Sciezka :   0 812 358 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   359	Waga sciezki :2	Sciezka :   0 852 359 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   360	Waga sciezki :3	Sciezka :   0 905 117 360 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   361	Waga sciezki :2	Sciezka :   0 812 361 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   362	Waga sciezki :3	Sciezka :   0 11 362 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   363	Waga sciezki :3	Sciezka :   0 34 95 363 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   364	Waga sciezki :2	Sciezka :   0 312 364 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   365	Waga sciezki :3	Sciezka :   0 812 127 365 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   366	Waga sciezki :2	Sciezka :   0 366 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   367	Waga sciezki :3	Sciezka :   0 641 367 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   368	Waga sciezki :2	Sciezka :   0 34 368 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   369	Waga sciezki :3	Sciezka :   0 776 60 369 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   370	Waga sciezki :3	Sciezka :   0 812 35 370 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   371	Waga sciezki :3	Sciezka :   0 50 61 371 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   372	Waga sciezki :3	Sciezka :   0 673 45 372 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   373	Waga sciezki :3	Sciezka :   0 905 373 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   374	Waga sciezki :3	Sciezka :   0 812 374 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   375	Waga sciezki :2	Sciezka :   0 237 375 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   376	Waga sciezki :3	Sciezka :   0 237 375 376 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   377	Waga sciezki :2	Sciezka :   0 50 377 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   378	Waga sciezki :2	Sciezka :   0 895 378 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   379	Waga sciezki :3	Sciezka :   0 237 234 379 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   380	Waga sciezki :3	Sciezka :   0 312 380 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   381	Waga sciezki :3	Sciezka :   0 641 381 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   382	Waga sciezki :3	Sciezka :   0 904 382 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   383	Waga sciezki :2	Sciezka :   0 312 383 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   384	Waga sciezki :3	Sciezka :   0 34 384 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   385	Waga sciezki :2	Sciezka :   0 11 385 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   386	Waga sciezki :3	Sciezka :   0 643 386 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   387	Waga sciezki :2	Sciezka :   0 50 387 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   388	Waga sciezki :2	Sciezka :   0 776 388 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   389	Waga sciezki :3	Sciezka :   0 312 6 389 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   390	Waga sciezki :3	Sciezka :   0 312 6 390 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   391	Waga sciezki :3	Sciezka :   0 643 391 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   392	Waga sciezki :3	Sciezka :   0 569 59 392 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   393	Waga sciezki :3	Sciezka :   0 312 393 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   394	Waga sciezki :3	Sciezka :   0 312 6 394 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   395	Waga sciezki :3	Sciezka :   0 745 395 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   396	Waga sciezki :3	Sciezka :   0 812 396 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   397	Waga sciezki :3	Sciezka :   0 641 67 397 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   398	Waga sciezki :2	Sciezka :   0 895 398 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   399	Waga sciezki :2	Sciezka :   0 569 399 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   400	Waga sciezki :2	Sciezka :   0 34 400 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   401	Waga sciezki :2	Sciezka :   0 641 401 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   402	Waga sciezki :2	Sciezka :   0 905 402 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   403	Waga sciezki :3	Sciezka :   0 904 112 403 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   404	Waga sciezki :2	Sciezka :   0 852 404 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   405	Waga sciezki :2	Sciezka :   0 776 405 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   406	Waga sciezki :3	Sciezka :   0 990 181 406 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   407	Waga sciezki :2	Sciezka :   0 595 407 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   408	Waga sciezki :3	Sciezka :   0 852 359 408 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   409	Waga sciezki :3	Sciezka :   0 643 409 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   410	Waga sciezki :3	Sciezka :   0 776 410 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   411	Waga sciezki :3	Sciezka :   0 312 6 411 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   412	Waga sciezki :2	Sciezka :   0 643 412 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   413	Waga sciezki :2	Sciezka :   0 34 413 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   414	Waga sciezki :3	Sciezka :   0 237 92 414 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   415	Waga sciezki :3	Sciezka :   0 34 82 415 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   416	Waga sciezki :3	Sciezka :   0 312 416 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   417	Waga sciezki :3	Sciezka :   0 312 104 417 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   418	Waga sciezki :2	Sciezka :   0 312 418 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   419	Waga sciezki :3	Sciezka :   0 905 117 419 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   420	Waga sciezki :3	Sciezka :   0 895 420 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   421	Waga sciezki :2	Sciezka :   0 904 421 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   422	Waga sciezki :2	Sciezka :   0 237 422 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   423	Waga sciezki :2	Sciezka :   0 237 423 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   424	Waga sciezki :3	Sciezka :   0 643 155 424 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   425	Waga sciezki :3	Sciezka :   0 745 425 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   426	Waga sciezki :2	Sciezka :   0 426 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   427	Waga sciezki :3	Sciezka :   0 922 427 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   428	Waga sciezki :3	Sciezka :   0 745 57 428 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   429	Waga sciezki :3	Sciezka :   0 905 429 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   430	Waga sciezki :3	Sciezka :   0 312 430 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   431	Waga sciezki :3	Sciezka :   0 812 431 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   432	Waga sciezki :3	Sciezka :   0 776 432 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   433	Waga sciezki :3	Sciezka :   0 569 16 433 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   434	Waga sciezki :2	Sciezka :   0 237 434 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   435	Waga sciezki :3	Sciezka :   0 745 435 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   436	Waga sciezki :3	Sciezka :   0 569 20 436 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   437	Waga sciezki :3	Sciezka :   0 237 437 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   438	Waga sciezki :3	Sciezka :   0 693 12 438 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   439	Waga sciezki :3	Sciezka :   0 693 12 439 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   440	Waga sciezki :3	Sciezka :   0 812 165 440 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   441	Waga sciezki :3	Sciezka :   0 11 93 441 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   442	Waga sciezki :3	Sciezka :   0 569 7 442 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   443	Waga sciezki :3	Sciezka :   0 904 10 443 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   444	Waga sciezki :2	Sciezka :   0 643 444 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   445	Waga sciezki :2	Sciezka :   0 904 445 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   446	Waga sciezki :2	Sciezka :   0 922 446 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   447	Waga sciezki :3	Sciezka :   0 447 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   448	Waga sciezki :3	Sciezka :   0 905 448 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   449	Waga sciezki :3	Sciezka :   0 569 48 449 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   450	Waga sciezki :2	Sciezka :   0 237 450 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   451	Waga sciezki :3	Sciezka :   0 569 148 451 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   452	Waga sciezki :3	Sciezka :   0 50 452 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   453	Waga sciezki :3	Sciezka :   0 50 14 453 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   454	Waga sciezki :2	Sciezka :   0 237 454 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   455	Waga sciezki :3	Sciezka :   0 990 455 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   456	Waga sciezki :3	Sciezka :   0 237 81 456 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   457	Waga sciezki :3	Sciezka :   0 50 61 457 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   458	Waga sciezki :3	Sciezka :   0 728 458 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   459	Waga sciezki :2	Sciezka :   0 595 459 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   460	Waga sciezki :3	Sciezka :   0 595 52 460 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   461	Waga sciezki :3	Sciezka :   0 693 12 461 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   462	Waga sciezki :3	Sciezka :   0 990 462 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   463	Waga sciezki :3	Sciezka :   0 852 280 463 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   464	Waga sciezki :2	Sciezka :   0 237 464 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   465	Waga sciezki :3	Sciezka :   0 237 91 465 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   466	Waga sciezki :2	Sciezka :   0 693 466 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   467	Waga sciezki :3	Sciezka :   0 11 467 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   468	Waga sciezki :2	Sciezka :   0 922 468 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   469	Waga sciezki :3	Sciezka :   0 11 469 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   470	Waga sciezki :2	Sciezka :   0 904 470 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   471	Waga sciezki :3	Sciezka :   0 569 16 471 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   472	Waga sciezki :2	Sciezka :   0 643 472 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   473	Waga sciezki :3	Sciezka :   0 569 212 473 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   474	Waga sciezki :3	Sciezka :   0 569 15 474 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   475	Waga sciezki :3	Sciezka :   0 852 475 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   476	Waga sciezki :3	Sciezka :   0 728 476 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   477	Waga sciezki :2	Sciezka :   0 776 477 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   478	Waga sciezki :3	Sciezka :   0 569 20 478 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   479	Waga sciezki :2	Sciezka :   0 312 479 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   480	Waga sciezki :2	Sciezka :   0 480 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   481	Waga sciezki :2	Sciezka :   0 745 481 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   482	Waga sciezki :3	Sciezka :   0 641 482 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   483	Waga sciezki :3	Sciezka :   0 11 65 483 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   484	Waga sciezki :3	Sciezka :   0 34 484 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   485	Waga sciezki :3	Sciezka :   0 18 485 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   486	Waga sciezki :2	Sciezka :   0 237 486 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   487	Waga sciezki :2	Sciezka :   0 745 487 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   488	Waga sciezki :3	Sciezka :   0 11 164 488 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   489	Waga sciezki :2	Sciezka :   0 34 489 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   490	Waga sciezki :2	Sciezka :   0 776 490 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   491	Waga sciezki :3	Sciezka :   0 237 81 491 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   492	Waga sciezki :3	Sciezka :   0 641 492 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   493	Waga sciezki :3	Sciezka :   0 852 76 493 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   494	Waga sciezki :3	Sciezka :   0 852 76 494 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   495	Waga sciezki :3	Sciezka :   0 569 125 495 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   496	Waga sciezki :2	Sciezka :   0 569 496 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   497	Waga sciezki :3	Sciezka :   0 895 497 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   498	Waga sciezki :2	Sciezka :   0 595 498 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   499	Waga sciezki :2	Sciezka :   0 922 499 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   500	Waga sciezki :3	Sciezka :   0 595 132 500 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   501	Waga sciezki :2	Sciezka :   0 641 501 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   502	Waga sciezki :2	Sciezka :   0 990 502 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   503	Waga sciezki :3	Sciezka :   0 641 503 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   504	Waga sciezki :3	Sciezka :   0 569 504 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   505	Waga sciezki :3	Sciezka :   0 50 61 505 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   506	Waga sciezki :2	Sciezka :   0 922 506 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   507	Waga sciezki :2	Sciezka :   0 745 507 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   508	Waga sciezki :3	Sciezka :   0 312 6 508 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   509	Waga sciezki :2	Sciezka :   0 312 509 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   510	Waga sciezki :2	Sciezka :   0 11 510 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   511	Waga sciezki :3	Sciezka :   0 852 76 511 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   512	Waga sciezki :2	Sciezka :   0 50 512 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   513	Waga sciezki :2	Sciezka :   0 595 513 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   514	Waga sciezki :3	Sciezka :   0 312 514 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   515	Waga sciezki :2	Sciezka :   0 34 515 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   516	Waga sciezki :3	Sciezka :   0 269 516 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   517	Waga sciezki :3	Sciezka :   0 643 517 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   518	Waga sciezki :3	Sciezka :   0 895 128 518 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   519	Waga sciezki :2	Sciezka :   0 905 519 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   520	Waga sciezki :3	Sciezka :   0 11 520 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   521	Waga sciezki :2	Sciezka :   0 922 521 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   522	Waga sciezki :2	Sciezka :   0 776 522 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   523	Waga sciezki :3	Sciezka :   0 641 523 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   524	Waga sciezki :2	Sciezka :   0 569 524 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   525	Waga sciezki :3	Sciezka :   0 525 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   526	Waga sciezki :3	Sciezka :   0 569 48 526 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   527	Waga sciezki :3	Sciezka :   0 641 527 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   528	Waga sciezki :2	Sciezka :   0 776 528 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   529	Waga sciezki :3	Sciezka :   0 641 529 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   530	Waga sciezki :3	Sciezka :   0 812 35 530 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   531	Waga sciezki :3	Sciezka :   0 904 121 531 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   532	Waga sciezki :3	Sciezka :   0 922 532 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   533	Waga sciezki :3	Sciezka :   0 237 81 533 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   534	Waga sciezki :2	Sciezka :   0 905 534 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   535	Waga sciezki :2	Sciezka :   0 922 535 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   536	Waga sciezki :2	Sciezka :   0 641 536 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   537	Waga sciezki :2	Sciezka :   0 922 537 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   538	Waga sciezki :3	Sciezka :   0 673 538 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   539	Waga sciezki :3	Sciezka :   0 643 539 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   540	Waga sciezki :2	Sciezka :   0 569 540 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   541	Waga sciezki :2	Sciezka :   0 852 541 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   542	Waga sciezki :2	Sciezka :   0 776 542 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   543	Waga sciezki :3	Sciezka :   0 904 543 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   544	Waga sciezki :3	Sciezka :   0 922 301 544 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   545	Waga sciezki :2	Sciezka :   0 895 545 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   546	Waga sciezki :2	Sciezka :   0 546 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   547	Waga sciezki :3	Sciezka :   0 641 547 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   548	Waga sciezki :3	Sciezka :   0 728 548 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   549	Waga sciezki :3	Sciezka :   0 904 10 549 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   550	Waga sciezki :3	Sciezka :   0 312 104 550 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   551	Waga sciezki :3	Sciezka :   0 237 551 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   552	Waga sciezki :3	Sciezka :   0 728 552 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   553	Waga sciezki :3	Sciezka :   0 693 12 553 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   554	Waga sciezki :2	Sciezka :   0 905 554 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   555	Waga sciezki :3	Sciezka :   0 745 555 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   556	Waga sciezki :2	Sciezka :   0 895 556 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   557	Waga sciezki :2	Sciezka :   0 812 557 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   558	Waga sciezki :3	Sciezka :   0 776 170 558 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   559	Waga sciezki :3	Sciezka :   0 50 61 559 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   560	Waga sciezki :2	Sciezka :   0 728 560 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   561	Waga sciezki :3	Sciezka :   0 34 218 561 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   562	Waga sciezki :3	Sciezka :   0 237 161 562 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   563	Waga sciezki :3	Sciezka :   0 569 15 563 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   564	Waga sciezki :2	Sciezka :   0 237 564 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   565	Waga sciezki :3	Sciezka :   0 812 565 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   566	Waga sciezki :2	Sciezka :   0 904 566 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   567	Waga sciezki :3	Sciezka :   0 50 61 567 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   568	Waga sciezki :3	Sciezka :   0 50 568 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   569	Waga sciezki :1	Sciezka :   0 569 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   570	Waga sciezki :3	Sciezka :   0 569 570 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   571	Waga sciezki :2	Sciezka :   0 50 571 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   572	Waga sciezki :3	Sciezka :   0 50 572 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   573	Waga sciezki :2	Sciezka :   0 745 573 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   574	Waga sciezki :2	Sciezka :   0 905 574 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   575	Waga sciezki :2	Sciezka :   0 922 575 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   576	Waga sciezki :2	Sciezka :   0 595 576 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   577	Waga sciezki :2	Sciezka :   0 905 577 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   578	Waga sciezki :3	Sciezka :   0 673 578 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   579	Waga sciezki :2	Sciezka :   0 34 579 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   580	Waga sciezki :2	Sciezka :   0 728 580 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   581	Waga sciezki :2	Sciezka :   0 673 581 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   582	Waga sciezki :2	Sciezka :   0 11 582 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   583	Waga sciezki :2	Sciezka :   0 693 583 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   584	Waga sciezki :2	Sciezka :   0 641 584 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   585	Waga sciezki :3	Sciezka :   0 905 342 585 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   586	Waga sciezki :2	Sciezka :   0 776 586 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   587	Waga sciezki :3	Sciezka :   0 895 54 587 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   588	Waga sciezki :2	Sciezka :   0 312 588 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   589	Waga sciezki :3	Sciezka :   0 812 589 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   590	Waga sciezki :3	Sciezka :   0 776 110 590 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   591	Waga sciezki :3	Sciezka :   0 745 591 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   592	Waga sciezki :2	Sciezka :   0 595 592 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   593	Waga sciezki :2	Sciezka :   0 237 593 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   594	Waga sciezki :2	Sciezka :   0 237 594 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   595	Waga sciezki :1	Sciezka :   0 595 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   596	Waga sciezki :2	Sciezka :   0 595 596 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   597	Waga sciezki :3	Sciezka :   0 693 12 597 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   598	Waga sciezki :2	Sciezka :   0 643 598 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   599	Waga sciezki :3	Sciezka :   0 745 599 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   600	Waga sciezki :3	Sciezka :   0 922 600 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   601	Waga sciezki :2	Sciezka :   0 895 601 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   602	Waga sciezki :3	Sciezka :   0 595 286 602 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   603	Waga sciezki :2	Sciezka :   0 812 603 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   604	Waga sciezki :3	Sciezka :   0 812 29 604 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   605	Waga sciezki :2	Sciezka :   0 812 605 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   606	Waga sciezki :3	Sciezka :   0 922 606 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   607	Waga sciezki :3	Sciezka :   0 569 44 607 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   608	Waga sciezki :2	Sciezka :   0 643 608 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   609	Waga sciezki :2	Sciezka :   0 609 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   610	Waga sciezki :2	Sciezka :   0 11 610 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   611	Waga sciezki :3	Sciezka :   0 904 611 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   612	Waga sciezki :3	Sciezka :   0 990 612 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   613	Waga sciezki :2	Sciezka :   0 312 613 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   614	Waga sciezki :3	Sciezka :   0 50 614 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   615	Waga sciezki :3	Sciezka :   0 34 218 615 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   616	Waga sciezki :3	Sciezka :   0 616 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   617	Waga sciezki :3	Sciezka :   0 693 96 617 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   618	Waga sciezki :2	Sciezka :   0 990 618 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   619	Waga sciezki :3	Sciezka :   0 641 619 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   620	Waga sciezki :3	Sciezka :   0 812 127 620 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   621	Waga sciezki :3	Sciezka :   0 621 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   622	Waga sciezki :3	Sciezka :   0 643 622 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   623	Waga sciezki :2	Sciezka :   0 904 623 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   624	Waga sciezki :3	Sciezka :   0 776 624 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   625	Waga sciezki :3	Sciezka :   0 137 625 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   626	Waga sciezki :3	Sciezka :   0 812 29 626 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   627	Waga sciezki :3	Sciezka :   0 812 29 627 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   628	Waga sciezki :2	Sciezka :   0 595 628 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   629	Waga sciezki :2	Sciezka :   0 922 629 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   630	Waga sciezki :3	Sciezka :   0 673 630 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   631	Waga sciezki :2	Sciezka :   0 11 631 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   632	Waga sciezki :3	Sciezka :   0 50 632 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   633	Waga sciezki :2	Sciezka :   0 693 633 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   634	Waga sciezki :2	Sciezka :   0 237 634 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   635	Waga sciezki :2	Sciezka :   0 895 635 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   636	Waga sciezki :3	Sciezka :   0 895 636 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   637	Waga sciezki :2	Sciezka :   0 895 637 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   638	Waga sciezki :3	Sciezka :   0 569 190 638 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   639	Waga sciezki :2	Sciezka :   0 237 639 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   640	Waga sciezki :2	Sciezka :   0 643 640 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   641	Waga sciezki :1	Sciezka :   0 641 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   642	Waga sciezki :2	Sciezka :   0 643 642 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   643	Waga sciezki :1	Sciezka :   0 643 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   644	Waga sciezki :2	Sciezka :   0 745 644 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   645	Waga sciezki :2	Sciezka :   0 34 645 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   646	Waga sciezki :2	Sciezka :   0 812 646 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   647	Waga sciezki :3	Sciezka :   0 595 647 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   648	Waga sciezki :3	Sciezka :   0 569 59 648 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   649	Waga sciezki :3	Sciezka :   0 569 15 649 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   650	Waga sciezki :2	Sciezka :   0 643 650 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   651	Waga sciezki :3	Sciezka :   0 904 10 651 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   652	Waga sciezki :2	Sciezka :   0 895 652 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   653	Waga sciezki :2	Sciezka :   0 693 653 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   654	Waga sciezki :2	Sciezka :   0 904 654 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   655	Waga sciezki :3	Sciezka :   0 11 610 655 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   656	Waga sciezki :2	Sciezka :   0 50 656 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   657	Waga sciezki :2	Sciezka :   0 569 657 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   658	Waga sciezki :2	Sciezka :   0 905 658 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   659	Waga sciezki :2	Sciezka :   0 595 659 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   660	Waga sciezki :3	Sciezka :   0 922 660 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   661	Waga sciezki :2	Sciezka :   0 852 661 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   662	Waga sciezki :3	Sciezka :   0 137 662 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   663	Waga sciezki :3	Sciezka :   0 745 663 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   664	Waga sciezki :3	Sciezka :   0 745 57 664 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   665	Waga sciezki :3	Sciezka :   0 990 202 665 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   666	Waga sciezki :3	Sciezka :   0 595 132 666 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   667	Waga sciezki :3	Sciezka :   0 34 95 667 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   668	Waga sciezki :2	Sciezka :   0 50 668 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   669	Waga sciezki :2	Sciezka :   0 237 669 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   670	Waga sciezki :3	Sciezka :   0 595 670 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   671	Waga sciezki :3	Sciezka :   0 34 671 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   672	Waga sciezki :3	Sciezka :   0 904 121 672 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   673	Waga sciezki :1	Sciezka :   0 673 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   674	Waga sciezki :2	Sciezka :   0 922 674 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   675	Waga sciezki :2	Sciezka :   0 745 675 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   676	Waga sciezki :2	Sciezka :   0 852 676 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   677	Waga sciezki :2	Sciezka :   0 852 677 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   678	Waga sciezki :3	Sciezka :   0 34 82 678 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   679	Waga sciezki :3	Sciezka :   0 312 104 679 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   680	Waga sciezki :2	Sciezka :   0 728 680 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   681	Waga sciezki :3	Sciezka :   0 895 128 681 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   682	Waga sciezki :2	Sciezka :   0 776 682 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   683	Waga sciezki :3	Sciezka :   0 50 61 683 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   684	Waga sciezki :2	Sciezka :   0 693 684 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   685	Waga sciezki :2	Sciezka :   0 569 685 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   686	Waga sciezki :2	Sciezka :   0 569 686 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   687	Waga sciezki :3	Sciezka :   0 895 166 687 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   688	Waga sciezki :3	Sciezka :   0 237 688 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   689	Waga sciezki :2	Sciezka :   0 745 689 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   690	Waga sciezki :2	Sciezka :   0 905 690 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   691	Waga sciezki :3	Sciezka :   0 728 691 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   692	Waga sciezki :2	Sciezka :   0 776 692 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   693	Waga sciezki :1	Sciezka :   0 693 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   694	Waga sciezki :2	Sciezka :   0 312 694 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   695	Waga sciezki :2	Sciezka :   0 695 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   696	Waga sciezki :2	Sciezka :   0 776 696 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   697	Waga sciezki :3	Sciezka :   0 641 67 697 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   698	Waga sciezki :3	Sciezka :   0 641 99 698 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   699	Waga sciezki :2	Sciezka :   0 641 699 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   700	Waga sciezki :3	Sciezka :   0 673 700 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   701	Waga sciezki :3	Sciezka :   0 643 701 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   702	Waga sciezki :3	Sciezka :   0 904 702 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   703	Waga sciezki :2	Sciezka :   0 776 703 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   704	Waga sciezki :3	Sciezka :   0 569 704 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   705	Waga sciezki :3	Sciezka :   0 776 705 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   706	Waga sciezki :3	Sciezka :   0 904 706 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   707	Waga sciezki :3	Sciezka :   0 50 707 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   708	Waga sciezki :2	Sciezka :   0 569 708 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   709	Waga sciezki :2	Sciezka :   0 641 709 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   710	Waga sciezki :3	Sciezka :   0 728 206 710 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   711	Waga sciezki :2	Sciezka :   0 711 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   712	Waga sciezki :2	Sciezka :   0 728 712 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   713	Waga sciezki :2	Sciezka :   0 34 713 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   714	Waga sciezki :3	Sciezka :   0 50 714 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   715	Waga sciezki :2	Sciezka :   0 237 715 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   716	Waga sciezki :3	Sciezka :   0 776 716 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   717	Waga sciezki :3	Sciezka :   0 569 190 717 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   718	Waga sciezki :2	Sciezka :   0 905 718 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   719	Waga sciezki :2	Sciezka :   0 693 719 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   720	Waga sciezki :3	Sciezka :   0 312 172 720 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   721	Waga sciezki :2	Sciezka :   0 721 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   722	Waga sciezki :3	Sciezka :   0 595 129 722 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   723	Waga sciezki :2	Sciezka :   0 852 723 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   724	Waga sciezki :3	Sciezka :   0 569 15 724 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   725	Waga sciezki :2	Sciezka :   0 776 725 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   726	Waga sciezki :3	Sciezka :   0 904 10 726 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   727	Waga sciezki :3	Sciezka :   0 641 727 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   728	Waga sciezki :1	Sciezka :   0 728 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   729	Waga sciezki :2	Sciezka :   0 728 729 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   730	Waga sciezki :3	Sciezka :   0 641 730 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   731	Waga sciezki :2	Sciezka :   0 569 731 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   732	Waga sciezki :2	Sciezka :   0 673 732 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   733	Waga sciezki :3	Sciezka :   0 312 6 733 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   734	Waga sciezki :3	Sciezka :   0 312 734 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   735	Waga sciezki :2	Sciezka :   0 776 735 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   736	Waga sciezki :3	Sciezka :   0 736 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   737	Waga sciezki :2	Sciezka :   0 990 737 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   738	Waga sciezki :3	Sciezka :   0 693 31 738 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   739	Waga sciezki :2	Sciezka :   0 595 739 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   740	Waga sciezki :3	Sciezka :   0 904 10 740 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   741	Waga sciezki :3	Sciezka :   0 693 31 741 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   742	Waga sciezki :2	Sciezka :   0 673 742 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   743	Waga sciezki :2	Sciezka :   0 904 743 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   744	Waga sciezki :2	Sciezka :   0 852 744 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   745	Waga sciezki :1	Sciezka :   0 745 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   746	Waga sciezki :2	Sciezka :   0 312 746 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   747	Waga sciezki :3	Sciezka :   0 643 412 747 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   748	Waga sciezki :2	Sciezka :   0 776 748 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   749	Waga sciezki :3	Sciezka :   0 312 6 749 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   750	Waga sciezki :2	Sciezka :   0 905 750 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   751	Waga sciezki :3	Sciezka :   0 34 95 751 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   752	Waga sciezki :2	Sciezka :   0 904 752 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   753	Waga sciezki :3	Sciezka :   0 922 753 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   754	Waga sciezki :3	Sciezka :   0 673 45 754 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   755	Waga sciezki :3	Sciezka :   0 11 65 755 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   756	Waga sciezki :2	Sciezka :   0 756 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   757	Waga sciezki :3	Sciezka :   0 745 757 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   758	Waga sciezki :2	Sciezka :   0 728 758 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   759	Waga sciezki :3	Sciezka :   0 312 6 759 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   760	Waga sciezki :2	Sciezka :   0 34 760 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   761	Waga sciezki :2	Sciezka :   0 641 761 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   762	Waga sciezki :2	Sciezka :   0 922 762 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   763	Waga sciezki :2	Sciezka :   0 237 763 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   764	Waga sciezki :2	Sciezka :   0 776 764 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   765	Waga sciezki :2	Sciezka :   0 50 765 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   766	Waga sciezki :2	Sciezka :   0 643 766 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   767	Waga sciezki :3	Sciezka :   0 904 154 767 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   768	Waga sciezki :2	Sciezka :   0 595 768 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   769	Waga sciezki :3	Sciezka :   0 641 769 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   770	Waga sciezki :3	Sciezka :   0 237 91 770 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   771	Waga sciezki :3	Sciezka :   0 237 92 771 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   772	Waga sciezki :2	Sciezka :   0 34 772 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   773	Waga sciezki :3	Sciezka :   0 237 91 773 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   774	Waga sciezki :3	Sciezka :   0 905 574 774 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   775	Waga sciezki :3	Sciezka :   0 595 23 775 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   776	Waga sciezki :1	Sciezka :   0 776 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   777	Waga sciezki :3	Sciezka :   0 643 777 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   778	Waga sciezki :2	Sciezka :   0 693 778 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   779	Waga sciezki :3	Sciezka :   0 922 779 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   780	Waga sciezki :3	Sciezka :   0 34 238 780 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   781	Waga sciezki :3	Sciezka :   0 922 17 781 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   782	Waga sciezki :3	Sciezka :   0 569 48 782 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   783	Waga sciezki :3	Sciezka :   0 34 238 783 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   784	Waga sciezki :3	Sciezka :   0 990 181 784 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   785	Waga sciezki :3	Sciezka :   0 595 23 785 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   786	Waga sciezki :3	Sciezka :   0 34 238 786 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   787	Waga sciezki :2	Sciezka :   0 569 787 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   788	Waga sciezki :2	Sciezka :   0 852 788 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   789	Waga sciezki :2	Sciezka :   0 789 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   790	Waga sciezki :2	Sciezka :   0 852 790 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   791	Waga sciezki :2	Sciezka :   0 905 791 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   792	Waga sciezki :3	Sciezka :   0 693 792 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   793	Waga sciezki :3	Sciezka :   0 693 793 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   794	Waga sciezki :3	Sciezka :   0 852 42 794 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   795	Waga sciezki :3	Sciezka :   0 693 12 795 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   796	Waga sciezki :3	Sciezka :   0 595 23 796 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   797	Waga sciezki :3	Sciezka :   0 693 797 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   798	Waga sciezki :3	Sciezka :   0 798 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   799	Waga sciezki :3	Sciezka :   0 569 48 799 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   800	Waga sciezki :2	Sciezka :   0 312 800 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   801	Waga sciezki :3	Sciezka :   0 852 76 801 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   802	Waga sciezki :3	Sciezka :   0 895 802 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   803	Waga sciezki :2	Sciezka :   0 237 803 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   804	Waga sciezki :2	Sciezka :   0 11 804 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   805	Waga sciezki :3	Sciezka :   0 812 805 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   806	Waga sciezki :2	Sciezka :   0 673 806 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   807	Waga sciezki :3	Sciezka :   0 812 127 807 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   808	Waga sciezki :3	Sciezka :   0 693 96 808 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   809	Waga sciezki :2	Sciezka :   0 595 809 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   810	Waga sciezki :3	Sciezka :   0 237 81 810 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   811	Waga sciezki :3	Sciezka :   0 34 811 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   812	Waga sciezki :1	Sciezka :   0 812 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   813	Waga sciezki :2	Sciezka :   0 569 813 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   814	Waga sciezki :3	Sciezka :   0 814 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   815	Waga sciezki :3	Sciezka :   0 815 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   816	Waga sciezki :2	Sciezka :   0 990 816 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   817	Waga sciezki :3	Sciezka :   0 817 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   818	Waga sciezki :3	Sciezka :   0 312 6 818 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   819	Waga sciezki :2	Sciezka :   0 595 819 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   820	Waga sciezki :2	Sciezka :   0 569 820 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   821	Waga sciezki :3	Sciezka :   0 34 821 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   822	Waga sciezki :2	Sciezka :   0 312 822 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   823	Waga sciezki :2	Sciezka :   0 852 823 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   824	Waga sciezki :3	Sciezka :   0 569 148 824 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   825	Waga sciezki :3	Sciezka :   0 825 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   826	Waga sciezki :3	Sciezka :   0 693 826 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   827	Waga sciezki :3	Sciezka :   0 905 196 827 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   828	Waga sciezki :3	Sciezka :   0 922 17 828 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   829	Waga sciezki :3	Sciezka :   0 34 255 829 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   830	Waga sciezki :3	Sciezka :   0 852 42 830 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   831	Waga sciezki :3	Sciezka :   0 569 16 831 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   832	Waga sciezki :3	Sciezka :   0 11 832 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   833	Waga sciezki :3	Sciezka :   0 569 833 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   834	Waga sciezki :3	Sciezka :   0 643 834 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   835	Waga sciezki :3	Sciezka :   0 50 61 835 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   836	Waga sciezki :3	Sciezka :   0 18 836 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   837	Waga sciezki :2	Sciezka :   0 745 837 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   838	Waga sciezki :2	Sciezka :   0 50 838 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   839	Waga sciezki :2	Sciezka :   0 745 839 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   840	Waga sciezki :2	Sciezka :   0 922 840 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   841	Waga sciezki :2	Sciezka :   0 11 841 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   842	Waga sciezki :2	Sciezka :   0 728 842 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   843	Waga sciezki :2	Sciezka :   0 237 843 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   844	Waga sciezki :3	Sciezka :   0 852 42 844 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   845	Waga sciezki :3	Sciezka :   0 11 173 845 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   846	Waga sciezki :2	Sciezka :   0 643 846 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   847	Waga sciezki :3	Sciezka :   0 11 385 847 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   848	Waga sciezki :2	Sciezka :   0 641 848 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   849	Waga sciezki :3	Sciezka :   0 595 52 849 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   850	Waga sciezki :2	Sciezka :   0 693 850 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   851	Waga sciezki :3	Sciezka :   0 312 104 851 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   852	Waga sciezki :1	Sciezka :   0 852 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   853	Waga sciezki :2	Sciezka :   0 728 853 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   854	Waga sciezki :3	Sciezka :   0 34 854 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   855	Waga sciezki :3	Sciezka :   0 673 855 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   856	Waga sciezki :3	Sciezka :   0 641 856 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   857	Waga sciezki :2	Sciezka :   0 852 857 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   858	Waga sciezki :2	Sciezka :   0 237 858 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   859	Waga sciezki :2	Sciezka :   0 643 859 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   860	Waga sciezki :3	Sciezka :   0 990 860 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   861	Waga sciezki :3	Sciezka :   0 693 31 861 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   862	Waga sciezki :3	Sciezka :   0 812 300 862 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   863	Waga sciezki :2	Sciezka :   0 904 863 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   864	Waga sciezki :3	Sciezka :   0 50 864 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   865	Waga sciezki :3	Sciezka :   0 50 14 865 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   866	Waga sciezki :3	Sciezka :   0 693 12 866 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   867	Waga sciezki :2	Sciezka :   0 11 867 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   868	Waga sciezki :3	Sciezka :   0 182 868 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   869	Waga sciezki :2	Sciezka :   0 641 869 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   870	Waga sciezki :2	Sciezka :   0 728 870 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   871	Waga sciezki :3	Sciezka :   0 595 228 871 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   872	Waga sciezki :3	Sciezka :   0 569 872 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   873	Waga sciezki :3	Sciezka :   0 278 873 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   874	Waga sciezki :3	Sciezka :   0 895 128 874 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   875	Waga sciezki :3	Sciezka :   0 745 875 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   876	Waga sciezki :3	Sciezka :   0 18 876 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   877	Waga sciezki :3	Sciezka :   0 904 121 877 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   878	Waga sciezki :3	Sciezka :   0 641 67 878 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   879	Waga sciezki :3	Sciezka :   0 728 879 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   880	Waga sciezki :2	Sciezka :   0 745 880 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   881	Waga sciezki :3	Sciezka :   0 905 196 881 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   882	Waga sciezki :2	Sciezka :   0 776 882 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   883	Waga sciezki :3	Sciezka :   0 922 883 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   884	Waga sciezki :3	Sciezka :   0 673 79 884 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   885	Waga sciezki :2	Sciezka :   0 905 885 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   886	Waga sciezki :3	Sciezka :   0 905 117 886 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   887	Waga sciezki :3	Sciezka :   0 50 887 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   888	Waga sciezki :3	Sciezka :   0 905 888 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   889	Waga sciezki :3	Sciezka :   0 18 889 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   890	Waga sciezki :2	Sciezka :   0 895 890 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   891	Waga sciezki :3	Sciezka :   0 776 60 891 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   892	Waga sciezki :3	Sciezka :   0 569 59 892 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   893	Waga sciezki :2	Sciezka :   0 852 893 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   894	Waga sciezki :3	Sciezka :   0 812 894 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   895	Waga sciezki :1	Sciezka :   0 895 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   896	Waga sciezki :3	Sciezka :   0 922 102 896 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   897	Waga sciezki :3	Sciezka :   0 673 45 897 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   898	Waga sciezki :2	Sciezka :   0 237 898 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   899	Waga sciezki :2	Sciezka :   0 673 899 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   900	Waga sciezki :2	Sciezka :   0 673 900 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   901	Waga sciezki :3	Sciezka :   0 990 122 901 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   902	Waga sciezki :2	Sciezka :   0 895 902 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   903	Waga sciezki :2	Sciezka :   0 895 903 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   904	Waga sciezki :1	Sciezka :   0 904 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   905	Waga sciezki :1	Sciezka :   0 905 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   906	Waga sciezki :3	Sciezka :   0 904 121 906 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   907	Waga sciezki :2	Sciezka :   0 643 907 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   908	Waga sciezki :2	Sciezka :   0 569 908 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   909	Waga sciezki :3	Sciezka :   0 693 31 909 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   910	Waga sciezki :3	Sciezka :   0 812 127 910 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   911	Waga sciezki :2	Sciezka :   0 911 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   912	Waga sciezki :3	Sciezka :   0 990 181 912 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   913	Waga sciezki :2	Sciezka :   0 776 913 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   914	Waga sciezki :3	Sciezka :   0 745 914 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   915	Waga sciezki :3	Sciezka :   0 776 405 915 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   916	Waga sciezki :3	Sciezka :   0 237 126 916 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   917	Waga sciezki :2	Sciezka :   0 595 917 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   918	Waga sciezki :3	Sciezka :   0 852 918 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   919	Waga sciezki :2	Sciezka :   0 673 919 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   920	Waga sciezki :2	Sciezka :   0 237 920 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   921	Waga sciezki :3	Sciezka :   0 595 921 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   922	Waga sciezki :1	Sciezka :   0 922 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   923	Waga sciezki :2	Sciezka :   0 11 923 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   924	Waga sciezki :3	Sciezka :   0 11 93 924 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   925	Waga sciezki :2	Sciezka :   0 34 925 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   926	Waga sciezki :2	Sciezka :   0 693 926 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   927	Waga sciezki :2	Sciezka :   0 776 927 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   928	Waga sciezki :2	Sciezka :   0 928 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   929	Waga sciezki :2	Sciezka :   0 237 929 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   930	Waga sciezki :3	Sciezka :   0 745 930 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   931	Waga sciezki :2	Sciezka :   0 776 931 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   932	Waga sciezki :3	Sciezka :   0 905 196 932 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   933	Waga sciezki :3	Sciezka :   0 237 161 933 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   934	Waga sciezki :3	Sciezka :   0 905 934 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   935	Waga sciezki :3	Sciezka :   0 237 92 935 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   936	Waga sciezki :3	Sciezka :   0 11 936 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   937	Waga sciezki :2	Sciezka :   0 237 937 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   938	Waga sciezki :3	Sciezka :   0 641 938 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   939	Waga sciezki :2	Sciezka :   0 904 939 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   940	Waga sciezki :2	Sciezka :   0 569 940 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   941	Waga sciezki :3	Sciezka :   0 641 941 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   942	Waga sciezki :3	Sciezka :   0 693 141 942 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   943	Waga sciezki :3	Sciezka :   0 852 943 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   944	Waga sciezki :3	Sciezka :   0 569 944 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   945	Waga sciezki :3	Sciezka :   0 595 945 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   946	Waga sciezki :2	Sciezka :   0 904 946 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   947	Waga sciezki :3	Sciezka :   0 11 65 947 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   948	Waga sciezki :3	Sciezka :   0 990 948 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   949	Waga sciezki :2	Sciezka :   0 776 949 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   950	Waga sciezki :2	Sciezka :   0 852 950 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   951	Waga sciezki :2	Sciezka :   0 776 951 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   952	Waga sciezki :2	Sciezka :   0 904 952 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   953	Waga sciezki :3	Sciezka :   0 693 953 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   954	Waga sciezki :2	Sciezka :   0 905 954 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   955	Waga sciezki :3	Sciezka :   0 569 7 955 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   956	Waga sciezki :2	Sciezka :   0 312 956 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   957	Waga sciezki :3	Sciezka :   0 904 957 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   958	Waga sciezki :2	Sciezka :   0 745 958 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   959	Waga sciezki :2	Sciezka :   0 643 959 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   960	Waga sciezki :3	Sciezka :   0 569 960 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   961	Waga sciezki :3	Sciezka :   0 643 961 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   962	Waga sciezki :3	Sciezka :   0 745 962 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   963	Waga sciezki :2	Sciezka :   0 11 963 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   964	Waga sciezki :3	Sciezka :   0 312 964 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   965	Waga sciezki :2	Sciezka :   0 812 965 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   966	Waga sciezki :3	Sciezka :   0 776 966 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   967	Waga sciezki :3	Sciezka :   0 569 967 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   968	Waga sciezki :2	Sciezka :   0 812 968 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   969	Waga sciezki :3	Sciezka :   0 852 969 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   970	Waga sciezki :3	Sciezka :   0 50 14 970 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   971	Waga sciezki :3	Sciezka :   0 904 10 971 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   972	Waga sciezki :2	Sciezka :   0 237 972 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   973	Waga sciezki :2	Sciezka :   0 312 973 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   974	Waga sciezki :2	Sciezka :   0 595 974 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   975	Waga sciezki :3	Sciezka :   0 569 20 975 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   976	Waga sciezki :2	Sciezka :   0 990 976 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   977	Waga sciezki :3	Sciezka :   0 50 225 977 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   978	Waga sciezki :3	Sciezka :   0 11 978 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   979	Waga sciezki :2	Sciezka :   0 922 979 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   980	Waga sciezki :3	Sciezka :   0 595 23 980 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   981	Waga sciezki :3	Sciezka :   0 11 65 981 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   982	Waga sciezki :2	Sciezka :   0 673 982 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   983	Waga sciezki :2	Sciezka :   0 728 983 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   984	Waga sciezki :2	Sciezka :   0 641 984 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   985	Waga sciezki :3	Sciezka :   0 745 985 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   986	Waga sciezki :3	Sciezka :   0 745 507 986 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   987	Waga sciezki :2	Sciezka :   0 569 987 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   988	Waga sciezki :3	Sciezka :   0 312 6 988 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   989	Waga sciezki :2	Sciezka :   0 905 989 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   990	Waga sciezki :1	Sciezka :   0 990 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   991	Waga sciezki :3	Sciezka :   0 11 991 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   992	Waga sciezki :2	Sciezka :   0 992 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   993	Waga sciezki :3	Sciezka :   0 643 155 993 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   994	Waga sciezki :2	Sciezka :   0 904 994 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   995	Waga sciezki :2	Sciezka :   0 312 995 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   996	Waga sciezki :3	Sciezka :   0 776 996 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   997	Waga sciezki :3	Sciezka :   0 595 52 997 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   998	Waga sciezki :3	Sciezka :   0 18 998 
+Wierzcholek poczatkowy :0	Wierzcholek koncowy :   999	Waga sciezki :2	Sciezka :   0 693 999 
